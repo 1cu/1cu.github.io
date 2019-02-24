@@ -44,7 +44,7 @@ html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	rm -rf ../author* ../categor* ../*.html ../theme/ ../tag/ ../*-*/
+	rm -rf ../author* ../categor* ../*.html ../theme/ ../tag/ ../20*/
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

@@ -32,5 +32,5 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-ARTICLE_SAVE_AS = '{date:%Y-%m}/{slug}.html'
-ARTICLE_URL = '{date:%Y-%m}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
