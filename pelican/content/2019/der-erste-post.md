@@ -3,7 +3,7 @@ Date: 2019-02-23 23:00
 Modified: 2019-02-23 23:12
 Category: Blog
 Tags: pelican, publishing
-Slug: 2019-02-23-der-erste-post
+Slug: der-erste-post
 Authors: Jens Bergmann
 Summary: Der erste Post im neuen Blog!
 
